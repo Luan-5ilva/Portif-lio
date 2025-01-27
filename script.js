@@ -12,7 +12,7 @@ window.onscroll = () => {
 /* Typing text animator */
 
 const typed = new Typed(".multiple-text", {
-  strings: ["Desenvolvedor Fronend", "Suporte Técnico"],
+  strings: ["Desenvolvedor Frontend", "Suporte Técnico"],
   typeSpeed: 60,
   backSpeed: 60,
   backDelay: 100,
