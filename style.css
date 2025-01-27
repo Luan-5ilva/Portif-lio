@@ -378,6 +378,12 @@ footer ul li a {
   .input-box i {
     font-size: 2.5rem;
   }
+  .projects-grid img {
+    width: 250px;
+  }
+  .project-card .btn {
+    width: 100px;
+  }
 }
 
 @media (max-width: 768px) {
